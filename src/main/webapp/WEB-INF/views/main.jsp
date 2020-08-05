@@ -4,7 +4,8 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>main</title>
+<script type="text/javascript" src="/pratice/js/hello.js"></script>
 </head>
 <body>
 	안녕!
