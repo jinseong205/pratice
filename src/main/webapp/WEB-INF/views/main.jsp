@@ -11,5 +11,6 @@
 </head>
 <body>
 	안녕!
+	<a href = "/pratice/test/hashing">HASH</a>
 </body>
 </html>
